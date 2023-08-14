@@ -4,4 +4,5 @@ watermelon
 pears
 kiwi
 strawberries 
-Avacado
+Oranges 
+Bananas
